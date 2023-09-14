@@ -9,20 +9,20 @@
 }
 
 .quotes-box {
-    font-family: 'Oswald', 'Times New Roman', Times, serif;
-    padding: 1rem;
-    background-color: var(--accent);
-    color: var(--text);
-    text-align: center;
+  font-family: 'Oswald', 'Times New Roman', Times, serif;
+  padding: 1rem;
+  background-color: var(--accent);
+  color: var(--text);
+  text-align: center;
 }
 
 .quotes-box span {
-    font-weight: bold;
-    display: block;
-    margin: 0.5rem 0;
+  font-weight: bold;
+  display: block;
+  margin: 0.5rem 0;
 }
 
 .quotes-box cite {
-    font-size: 1.1rem;
-    font-weight: 700;
+  font-size: 1.1rem;
+  font-weight: 700;
 }
