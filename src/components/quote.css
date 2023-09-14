@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto&display=swap');
+
+:root {
+  --text: #01130b;
+  --background: #fafffd;
+  --primary: #7bf9be;
+  --secondary: #a3ffd1;
+  --accent: #0bcd72;
+}
+
+.quotes-box {
+  font-family: 'Oswald', 'Times New Roman', Times, serif;
+  padding: 1rem;
+  background-color: var(--accent);
+  color: var(--text);
+  text-align: center;
+}
+
+.quotes-box span {
+  font-weight: bold;
+  display: block;
+  margin: 0.5rem 0;
+}
+
+.quotes-box cite {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
