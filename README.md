@@ -80,11 +80,9 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add mark up for calculator**
-- [ ] **Proper styling for the app**
 - [ ] **Fully functional single page app**
-- [ ] **Fully functional calculator**
 - [ ] **A random math fact generator**
+- [ ] **Tests for the calculator app**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
