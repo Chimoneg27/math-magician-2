@@ -16,12 +16,14 @@ const Calculator = () => {
   };
 
   return (
-    <div className="calculator">
-      <div className="outputs">
-        {calculatorState.next || calculatorState.total || '0'}
-      </div>
-      <div className="keys">
-        <Buttons clickHandler={handleButtonClick} />
+    <div className="container">
+      <div className="calculator">
+        <div className="outputs">
+          {calculatorState.next || calculatorState.total || '0'}
+        </div>
+        <div className="keys">
+          <Buttons clickHandler={handleButtonClick} />
+        </div>
       </div>
     </div>
   );
