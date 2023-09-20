@@ -7,6 +7,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+  - [🚀 Live Demo](#live-demo)
   - [💻 Getting Started ](#-getting-started-)
     - [Setup](#setup)
     - [Install](#install)
@@ -43,6 +44,12 @@ This is a simple SPA calculator built with REACT.js.
 - **Random quote generator**
 - **Fully functioning single page app**
 - **Tests for logic files and components**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- **[Math Magician](https://math-magician-site.onrender.com/Home)**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
