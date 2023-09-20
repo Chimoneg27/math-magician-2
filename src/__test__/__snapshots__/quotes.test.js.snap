@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Quotes Should be the same as the snapshot 1`] = `
+<div
+  className="quotes-box"
+>
+  <blockquote>
+    <span
+      className="quote"
+    />
+    <cite />
+  </blockquote>
+</div>
+`;
