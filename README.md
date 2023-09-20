@@ -32,6 +32,7 @@ This is a simple SPA calculator built with REACT.js.
     <li>React Components</li>
     <li>React Router V6</li>
     <li>CSS</li>
+    <li>Jest for unit testing</li>
   </ul>
 </details>
 
@@ -41,6 +42,7 @@ This is a simple SPA calculator built with REACT.js.
 - **Working calculator**
 - **Random quote generator**
 - **Fully functioning single page app**
+- **Tests for logic files and components**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,6 +86,7 @@ To run the project, execute the following command:
 
 - [ ] **Using redux for state management**
 - [ ] **Tests for the calculator app**
+- [ ] **A live site using the render service**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
