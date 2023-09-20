@@ -49,7 +49,7 @@ This is a simple SPA calculator built with REACT.js.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- **[Math Magician](https://math-magician-site.onrender.com/Home)**
+- **[Math Magician](https://math-magician-site.onrender.com/)**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
