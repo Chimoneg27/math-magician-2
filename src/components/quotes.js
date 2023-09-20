@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import GetQuote from '../API/API';
-import './quote.css';
+import '../styles/quote.css';
 
 const Quotes = () => {
   const [quotes, setQuote] = useState({});

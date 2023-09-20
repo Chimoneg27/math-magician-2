@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Calculator.css';
+import '../styles/Calculator.css';
 import Buttons from './button';
 import calculate from '../logic/calculate';
 
@@ -17,6 +17,9 @@ const Calculator = () => {
 
   return (
     <div className="container">
+      <div className="text">
+        <h1>Lets Do Some Math!</h1>
+      </div>
       <div className="calculator">
         <div className="outputs">
           {calculatorState.next || calculatorState.total || '0'}

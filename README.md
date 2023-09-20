@@ -30,15 +30,17 @@ This is a simple SPA calculator built with REACT.js.
     <li><a href="https://reactjs.org/">React.js</a></li>
     <li>JSX</li>
     <li>React Components</li>
+    <li>React Router V6</li>
+    <li>CSS</li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
 - **Build with React JS**
-- **Used JSX**
-- **Basic Calculator functionality**
-- **CSS styling**
+- **Working calculator**
+- **Random quote generator**
+- **Fully functioning single page app**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,8 +82,7 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Fully functional single page app**
-- [ ] **A random math fact generator**
+- [ ] **Using redux for state management**
 - [ ] **Tests for the calculator app**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

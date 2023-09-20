@@ -14,15 +14,20 @@
   background-color: var(--accent);
   color: var(--text);
   text-align: center;
+  width: 60%;
+  margin: 8rem auto;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0 19px 38px, rgba(0, 0, 0, 0.22) 0 15px 12px;
 }
 
 .quotes-box span {
   font-weight: bold;
   display: block;
   margin: 0.5rem 0;
+  font-size: 1.25rem;
 }
 
 .quotes-box cite {
-  font-size: 1.1rem;
+  font-size: 1.75rem;
   font-weight: 700;
 }
